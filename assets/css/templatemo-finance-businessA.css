@@ -97,6 +97,12 @@ a.border-button:hover {
 	margin-bottom: 80px;
 }
 
+.section-footer {
+	text-align: center;
+	margin-top: 40px;
+	width: 100%;
+}
+
 .section-heading h2 {
 	font-size: 36px;
 	font-weight: 600;
@@ -668,7 +674,8 @@ ul.slick-dots {
 /* More Info */
 
 .more-info {
-	margin-top: 140px;
+	margin-top: 80px;
+	margin-bottom: 80px;
 }
 
 .more-info .left-image img {
@@ -725,7 +732,7 @@ ul.slick-dots {
 }
 
 .testimonials {
-	margin-top: 140px;
+	margin-top: 0px;
 	background-color: #f7f7f7;
 	padding: 140px 0px;
 }
@@ -894,9 +901,9 @@ ul.slick-dots {
 }
 
 .partners {
-	margin-top: 140px;
+	margin-top: 8px;
 	background-color: #f7f7f7;
-	padding: 60px 0px;
+	padding: 100px 0px 100px 0px;
 }
 
 .partners .owl-item {
@@ -1145,7 +1152,8 @@ footer .contact-form button.filled-button:hover {
 /* Single Service */
 
 .single-services {
-	margin-top: 140px;
+	margin-top: 80px;
+	margin-bottom: 80px;
 }
 
 #tabs ul {
@@ -1216,7 +1224,8 @@ footer .contact-form button.filled-button:hover {
 /* Contact Information */
 
 .contact-information {
-	margin-top: 140px;
+	margin-top: 80px;
+	margin-bottom: 80px;
 }
 
 .contact-information .contact-item {
